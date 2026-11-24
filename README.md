@@ -1,2 +1,2 @@
 # PureAmp
-PureAmp is an independent, open-source Magisk module that allows compatible HiBy digital audio players to use an alternative music application within their native Pure Audio Mode.
+An open-source, systemless Magisk module that lets you choose your preferred music player in HiBy's native Pure Audio Mode. No firmware patches, ads, or subscriptions.
