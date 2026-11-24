@@ -1,0 +1,6 @@
+id=pureamp
+name=PureAmp
+version=v0.1.3
+versionCode=4
+author=PureAmp Project
+description=Launches Poweramp after entering HiBy Pure Audio Mode. No framework patches.
